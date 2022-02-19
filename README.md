@@ -8,3 +8,5 @@ How to use:
   - run
   - left mouse click for X
   - right mouse click for O
+
+Latest release : https://github.com/Smisch-dev/tic-tac-toe/releases/latest
